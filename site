@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Meu Site</title>
+    <link rel="stylesheet" type="text/css" href="estilos.css">
+  </head>
+  <body>
+    <header>
+      <h1>Meu Site</h1>
+      <nav>
+        <ul>
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Sobre</a></li>
+          <li><a href="#">Contato</a></li>
+        </ul>
+      </nav>
+    </header>
+    
+    <main>
+      <h2>Bem-vindo ao Meu Site</h2>
+      <p>Este é um site de demonstração.</p>
+    </main>
+    
+    <footer>
+      <p>Meu Site &copy; 2023</p>
+    </footer>
+  </body>
+</html>
